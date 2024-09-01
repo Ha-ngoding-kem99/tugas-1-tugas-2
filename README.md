@@ -52,6 +52,10 @@ Pada saat instalasi, tampilannya akan terlihat seperti gambar dibawah
 7.Setelah selesai instalasi, maka sistem operasi akan melakukan reboot. ketika reboot selesai, masukkan password untuk masuk ke sistem operasi. Selanjutnya terlihat seperti gambar di bawah menunjukkan, bahwa sistem operasi telah terinstal dan siap untuk digunakan
 ![image](https://github.com/user-attachments/assets/b98b23c1-cec7-48c6-b43f-09ec24f307b1)
 
+'
+
+'
+
 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
 ![image](https://github.com/user-attachments/assets/e4877b36-9cd9-4e4c-88a7-16292e1afa9b)
 
